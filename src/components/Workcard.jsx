@@ -9,7 +9,7 @@ const  details = [{content:"NetflixForMe",img:"https://images.unsplash.com/photo
 {content:"Weather App",img:"https://cdn.jim-nielsen.com/ios/512/weather-2021-12-07.png",links:"https://weatherfortoday-app.netlify.app",source:'https://github.com/AhammedNibras/Weather-App.git'},
 {content:"Bike Travel",img:"https://cdn.jim-nielsen.com/ios/512/weather-2021-12-07.png",links:"https://bike-travel.netlify.app",source:'https://github.com/AhammedNibras/Bike-Travel.git'},
 {content:"Drum kit",img:"https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njl8fHByb2plY3RzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",links:"https://my-drumkit-app.netlify.app",source:'https://github.com/AhammedNibras/Drum-Kit'},
-{content:"Amazon Prime",img:"https://cdn.jim-nielsen.com/ios/512/weather-2021-12-07.png",links:"https://amazonprimeforyou.netlify.app",source:'https://github.com/AhammedNibras/AmazonPrime.git'},
+{content:"Amazon Prime",img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDE4Nx4pPYoGOx9VJwnAgxkbf4_HMrOxAkWg&usqp=CAU",links:"https://amazonprimeforyou.netlify.app",source:'https://github.com/AhammedNibras/AmazonPrime.git'},
 
 ]
 
