@@ -9,7 +9,7 @@ function Aboutcontent() {
     <div className='about'>
         <div  className="left">
             <h1>Who am i?</h1>
-            <p style={{paddingBottom:'10px'}}>ther is text present here </p>
+            {/* <p style={{paddingBottom:'10px'}}>ther is text present here </p> */}
              <button onClick={()=>navi('/contact')}  className='btn'>contact</button>
         </div>
         <div className="right">
